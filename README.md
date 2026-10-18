@@ -2,7 +2,9 @@
 
 I'm a senior full-stack developer with Ruby on Rails and React experience. Today I'm applying that experience to AI-assisted development: building useful products quickly while keeping human judgment in charge of what gets built, reviewed and shipped.
 
-I picked up my first coding book about 20 years ago. Since then, my path has included college coursework, professional software teams and independent projects. After a gap in professional software work, I'm building again, with a focus on healthcare software and tools that help people direct and review AI-generated changes.
+I picked up my first coding book about 20 years ago. Since then, my path has included college coursework, professional software teams and independent projects.
+
+I stepped away from professional software work after a major accident and medical situation led me to become a primary caregiver. I’ve since returned to building software, bringing my Rails and React experience into AI-assisted development.
 
 **[Try Meta Clinic's live synthetic demo](https://aimetaclinic.com/demo)** · [Explore Branch Review](https://github.com/joshrice171723-creator/branch-review) · [See the games](https://github.com/joshrice171723-creator/rice-puzzle-arcade)
 
