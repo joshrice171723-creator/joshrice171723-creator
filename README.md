@@ -1,19 +1,26 @@
 # Joshua Rice
 
-Product engineer building healthcare software and AI-assisted developer tools.
+I'm a senior full-stack developer with Ruby on Rails and React experience. Today I'm applying that experience to AI-assisted development: building useful products quickly while keeping human judgment in charge of what gets built, reviewed and shipped.
 
-My current work connects product workflows with implementation details: a clinic visit moving between teams, a reviewed change reaching the right Git commit, and a game continuing from a valid saved state.
+I picked up my first coding book about 20 years ago. Since then, my path has included college coursework, professional software teams and independent projects. After a gap in professional software work, I'm building again, with a focus on healthcare software and tools that help people direct and review AI-generated changes.
 
-## Selected projects
+**[Try Meta Clinic's live synthetic demo](https://aimetaclinic.com/demo)** · [Explore Branch Review](https://github.com/joshrice171723-creator/branch-review) · [See the games](https://github.com/joshrice171723-creator/rice-puzzle-arcade)
 
-| Project | What it does | Try it / inspect it |
-| --- | --- | --- |
-| **[Meta Clinic](https://github.com/joshrice171723-creator/meta_clinic)** | Connects scheduling, front-desk handoffs, care documentation, billing and inventory in a React/TypeScript and Rails workspace. Active development using synthetic data; no production clinical acceptance claimed. | [Synthetic sandbox](https://aimetaclinic.com/demo) · [Architecture](https://github.com/joshrice171723-creator/meta_clinic/blob/main/docs/architecture/software-architecture.md) |
-| **[Branch Review](https://github.com/joshrice171723-creator/branch-review)** | An Electron workspace for comparing Git branches, recording findings, requesting AI-assisted fixes and retesting. Approval and deployment evidence are tied to the reviewed commit. | [Windows beta](https://github.com/joshrice171723-creator/branch-review/releases/tag/v0.6.0) · [Source and setup](https://github.com/joshrice171723-creator/branch-review#readme) |
-| **[Rice Puzzle Arcade](https://github.com/joshrice171723-creator/rice-puzzle-arcade)** | Three React Native/Expo puzzle games: Grid Foundry, Merge Drift and Color Cascade. Seeded game engines, local saves and separate native advertising integration. Store release remains pending. | [Run locally](https://github.com/joshrice171723-creator/rice-puzzle-arcade#run) · [Build guide](https://github.com/joshrice171723-creator/rice-puzzle-arcade/blob/master/docs/BUILD.md) |
+## Experience
 
-## How I build
+At **WeInfuse**, I was a Senior Full-Stack Software Engineer from January 2019 to February 2022. I joined as the third engineer on a small team and worked directly with the CEO. My work used Rails, React and AngularJS across clinic insurance eligibility, patient estimates, margin estimates, inventory and shipping workflows.
 
-I use AI tools, including Codex, as part of development. These repositories include AI-assisted implementation and documentation; I do not present every line as hand-written. The useful evidence is in the source, runnable workflows, recorded checks and clearly stated limitations.
+Before that, I worked in **C# full-stack development at CollectivePoint** in 2018–2019. My education includes coursework at **Grayson College** and **Austin Community College**.
 
-Across these projects, the engineering emphasis is on explicit ownership of state, recoverable workflows, and separating an observed result from an unverified claim.
+## What I'm building now
+
+- **[Meta Clinic](https://github.com/joshrice171723-creator/meta_clinic):** software for the day-to-day work of an independent clinic, from scheduling and front-desk handoffs to care documentation, billing and inventory. The live demo uses fictional records; the product is still in development.
+- **[Branch Review](https://github.com/joshrice171723-creator/branch-review):** a desktop workspace for seeing what changed, reporting problems, asking an AI coding tool for a fix and checking the result before shipping. A [Windows beta](https://github.com/joshrice171723-creator/branch-review/releases/tag/v0.6.0) is available.
+- **The tracker, Office and QA tools:** tools I'm building around the development process to organize work, coordinate agents, record findings and check results. Together with Branch Review, they help me guide faster AI development with human review.
+- **[Rice Puzzle Arcade](https://github.com/joshrice171723-creator/rice-puzzle-arcade):** three small puzzle games—Grid Foundry, Merge Drift and Color Cascade—built to explore advertising-supported income. They're playable in local previews; store release is pending and they have no verified revenue yet.
+
+## How I work
+
+I use Codex and other AI tools as part of implementation. My role is to shape the product, make engineering decisions, direct the work and review the results. These repositories include AI-generated code; I don't claim every line was hand-written.
+
+For a closer technical look, Meta Clinic uses a React/TypeScript frontend with a Rails/PostgreSQL backend. Branch Review ties approval and deployment evidence to the reviewed Git commit. The games separate seeded state engines from React Native/Expo screens and local saves. Their READMEs include setup instructions, screenshots and current limitations.
