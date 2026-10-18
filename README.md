@@ -1,6 +1,6 @@
 # Joshua Rice
 
-I'm a senior full-stack developer with Ruby on Rails and React experience. Today I'm applying that experience to AI-assisted development: building useful products quickly while keeping human judgment in charge of what gets built, reviewed and shipped.
+I'm a senior full-stack developer with Ruby on Rails and React experience. I build healthcare software and developer tools that help engineers review, test and manage code produced with AI. These tools keep human judgment at the center of what gets built and shipped.
 
 I picked up my first coding book about 20 years ago. Since then, my path has included college coursework, professional software teams and independent projects.
 
@@ -17,8 +17,8 @@ Before that, I worked in **C# full-stack development at CollectivePoint** in 201
 ## What I'm building now
 
 - **[Meta Clinic](https://github.com/joshrice171723-creator/meta_clinic):** software for the day-to-day work of an independent clinic, from scheduling and front-desk handoffs to care documentation, billing and inventory. The live demo uses fictional records; the product is still in development.
-- **[Branch Review](https://github.com/joshrice171723-creator/branch-review):** a desktop workspace for seeing what changed, reporting problems, asking an AI coding tool for a fix and checking the result before shipping. A [Windows beta](https://github.com/joshrice171723-creator/branch-review/releases/tag/v0.6.0) is available.
-- **The tracker, Office and QA tools:** tools I'm building around the development process to organize work, coordinate agents, record findings and check results. Together with Branch Review, they help me guide faster AI development with human review.
+- **[Branch Review](https://github.com/joshrice171723-creator/branch-review):** a desktop workspace that helps developers see what changed, report problems, request fixes from AI coding tools and retest the results before shipping. A [Windows beta](https://github.com/joshrice171723-creator/branch-review/releases/tag/v0.6.0) is available.
+- **The tracker, Office and QA tools:** tools for organizing engineering work, coordinating agents, recording findings and checking results. Together with Branch Review, they help developers oversee AI-generated work and decide what is ready to ship.
 - **[Rice Puzzle Arcade](https://github.com/joshrice171723-creator/rice-puzzle-arcade):** three small puzzle games—Grid Foundry, Merge Drift and Color Cascade—built to explore advertising-supported income. They're playable in local previews; store release is pending and they have no verified revenue yet.
 
 ## How I work
